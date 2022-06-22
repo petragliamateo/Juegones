@@ -16,3 +16,5 @@ Juego de dados.
 
 
 ## 2048:
+
+Juego en que hay que llegar a la puntuación indicada, podiendo mover todos los cuadros a la vez.
