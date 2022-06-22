@@ -12,8 +12,8 @@
     "id": 2,
     "title": "Tenzies",
     "description": "Juego de dados.",
-    "url": "https://www.google.com/",
-    "git": "",
+    "url": "https://tenzie-game-five.vercel.app/",
+    "git": "https://github.com/petragliamateo/Tenzie-Game",
     "img": "",
     "tags": ["Juego de Mesa", "Por Tiempo", "Pensar"]
   },
@@ -21,8 +21,8 @@
     "id": 3,
     "title": "Meme Generator",
     "description": "Generador de memes, carga una imagen random y escribe el texto!",
-    "url": "https://www.google.com/",
-    "git": "",
+    "url": "https://meme-generator-silk.vercel.app/",
+    "git": "https://github.com/petragliamateo/Meme-Generator",
     "img": "",
     "tags": ["Utilidad", "Gracioso"]
   },
@@ -30,8 +30,8 @@
     "id": 4,
     "title": "2048",
     "description": "Juego en que hay que llegar a la puntuación indicada, podiendo mover todos los cuadros a la vez.",
-    "url": "https://www.google.com/",
-    "git": "",
+    "url": "https://2048-roan-omega.vercel.app/",
+    "git": "https://github.com/petragliamateo/2048/tree/main",
     "img": "",
     "tags": ["Números", "Pensar"]
   }
