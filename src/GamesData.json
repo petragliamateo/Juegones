@@ -14,7 +14,7 @@
     "description": "Juego de dados.",
     "url": "https://tenzie-game-five.vercel.app/",
     "git": "https://github.com/petragliamateo/Tenzie-Game",
-    "img": "",
+    "img": "/Images/Tenzies.png",
     "tags": ["Juego de Mesa", "Por Tiempo", "Pensar"]
   },
   {
@@ -23,7 +23,7 @@
     "description": "Generador de memes, carga una imagen random y escribe el texto!",
     "url": "https://meme-generator-silk.vercel.app/",
     "git": "https://github.com/petragliamateo/Meme-Generator",
-    "img": "",
+    "img": "/Images/meme-generator.png",
     "tags": ["Utilidad", "Gracioso"]
   },
   {
@@ -32,7 +32,7 @@
     "description": "Juego en que hay que llegar a la puntuación indicada, podiendo mover todos los cuadros a la vez.",
     "url": "https://2048-roan-omega.vercel.app/",
     "git": "https://github.com/petragliamateo/2048/tree/main",
-    "img": "",
+    "img": "/Images/2048.png",
     "tags": ["Números", "Pensar"]
   }
 ]
