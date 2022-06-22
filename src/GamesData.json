@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Quizzical",
-    "description": "Juego creado usando React y API de preguntas.",
+    "description": "Juego creado con React, utilizando API de Trivias tipo multiple choice, el jugador debe responder 5 preguntas eligiendo el resultado.",
     "url": "https://quiz-game-project.vercel.app/",
     "git": "https://github.com/petragliamateo/Quiz-game-project",
     "img": "/Images/Quizzical.png",
