@@ -2,25 +2,37 @@
   {
     "id": 1,
     "title": "Quizzical",
-    "description": "",
-    "url": ""
+    "description": "Juego creado usando React y API de preguntas.",
+    "url": "https://quiz-game-project.vercel.app/",
+    "git": "https://github.com/petragliamateo/Quiz-game-project",
+    "img": "/Images/Quizzical.png",
+    "tags": ["Trivia", "Por Tiempo", "Pensar"]
   },
   {
     "id": 2,
     "title": "Tenzies",
-    "description": "",
-    "url": ""
+    "description": "Juego de dados.",
+    "url": "https://www.google.com/",
+    "git": "",
+    "img": "",
+    "tags": ["Juego de Mesa", "Por Tiempo", "Pensar"]
   },
   {
     "id": 3,
     "title": "Meme Generator",
-    "description": "",
-    "url": ""
+    "description": "Generador de memes, carga una imagen random y escribe el texto!",
+    "url": "https://www.google.com/",
+    "git": "",
+    "img": "",
+    "tags": ["Utilidad", "Gracioso"]
   },
   {
     "id": 4,
     "title": "2048",
-    "description": "",
-    "url": ""
+    "description": "Juego en que hay que llegar a la puntuación indicada, podiendo mover todos los cuadros a la vez.",
+    "url": "https://www.google.com/",
+    "git": "",
+    "img": "",
+    "tags": ["Números", "Pensar"]
   }
 ]
